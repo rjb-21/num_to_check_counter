@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[22]:
-
 
 n1 = 372**2
 n2 = 809**2
@@ -22,16 +20,6 @@ for i in range(n1,n2):
                         print(i)
                         numbers += 1
 print(f'There is {numbers} numbers to check.')                
-            
-
-
-# In[53]:
-
-
-'i_str[j]'+'i_str[j+1]'
-
-
-# In[ ]:
 
 
 
